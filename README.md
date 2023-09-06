@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Improving my skills**
 
-- 🌱 I’m currently learning **Blockchain , deep learning**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **ml, network security, and IoT**
 
