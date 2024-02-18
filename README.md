@@ -1,5 +1,5 @@
 <div align="center">
-<img width="" height = "" src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" alt="cover" />
+<img width="600" height = "300" src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Ibtihel 👩‍💻</h1>
 
