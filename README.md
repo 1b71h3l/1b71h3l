@@ -1,4 +1,8 @@
+<div align="center">
+<img width="" height = "" src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" alt="cover" />
+</div>
 <h1 align="center">Hi 👋, I'm Ibtihel 👩‍💻</h1>
+
 <h3 align="center">A passionate systems engineering student</h3>
 
 - 🔭 I’m currently working on **Improving my skills**
